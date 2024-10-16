@@ -1,1 +1,3 @@
-# Bank-Loan-Defaulter-Prediction
+## Bank-Loan-Defaulter-Prediction
+
+Led a bank loan default prediction project, managing a large dataset of 67,463 records. Employed data cleaning and exploration techniques to prepare the data for analysis. Developed and optimized machine learning models, including Random Forest, Logistic Regression, Decision Tree, and Gaussian Naive Bayes. Enhanced model performance through oversampling (SMOTE), feature selection (Lasso, Ridge, ElasticNet, Decision Tree, Random Forest), and hyperparameter tuning (Grid Search, Random Search). Achieved a highest accuracy of 84% and strong F1-scores (0.83 and 0.84) using Random Forest.
